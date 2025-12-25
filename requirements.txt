@@ -6,12 +6,12 @@ requests
 
 # --- Audio Processing ---
 pydub
-pyaudioop
 # --- Utilities ---
 
 python-dotenv
 
 gunicorn 
+
 
 
 
