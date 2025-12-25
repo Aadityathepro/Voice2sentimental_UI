@@ -1,15 +1,16 @@
 # --- Web Framework ---
-Flask>=3.0.0
+Flask
 
 # --- HTTP Client (For calling your API) ---
-requests>=2.31.0
+requests
 
 # --- Audio Processing ---
-pydub>=0.25.1
+pydub
 
 # --- Utilities ---
 
-python-dotenv>=1.0.0
+python-dotenv
 
 gunicorn 
+
 
